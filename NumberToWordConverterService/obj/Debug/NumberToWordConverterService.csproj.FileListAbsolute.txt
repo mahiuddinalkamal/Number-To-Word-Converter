@@ -1,0 +1,7 @@
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterService\bin\Debug\NumberToWordConverterService.dll.config
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterService\bin\Debug\NumberToWordConverterService.dll
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterService\bin\Debug\NumberToWordConverterService.pdb
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterService\obj\Debug\NumberToWordConverterService.csprojAssemblyReference.cache
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterService\obj\Debug\NumberToWordConverterService.csproj.CoreCompileInputs.cache
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterService\obj\Debug\NumberToWordConverterService.dll
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterService\obj\Debug\NumberToWordConverterService.pdb

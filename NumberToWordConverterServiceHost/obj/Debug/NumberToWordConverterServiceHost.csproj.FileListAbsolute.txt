@@ -1,0 +1,11 @@
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\bin\Debug\NumberToWordConverterServiceHost.exe.config
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\bin\Debug\NumberToWordConverterServiceHost.exe
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\bin\Debug\NumberToWordConverterServiceHost.pdb
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\bin\Debug\NumberToWordConverterService.dll
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\bin\Debug\NumberToWordConverterService.pdb
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\bin\Debug\NumberToWordConverterService.dll.config
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\obj\Debug\NumberToWordConverterServiceHost.csprojAssemblyReference.cache
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\obj\Debug\NumberToWordConverterServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\obj\Debug\NumberToWordConverterServiceHost.csproj.CopyComplete
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\obj\Debug\NumberToWordConverterServiceHost.exe
+C:\Users\mcs\Desktop\JOB\NumberToWordConverterServiceHost\obj\Debug\NumberToWordConverterServiceHost.pdb

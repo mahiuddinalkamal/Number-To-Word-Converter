@@ -1,0 +1,15 @@
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\bin\Debug\NumberToWordCurrencyConverter.exe.config
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\bin\Debug\NumberToWordCurrencyConverter.exe
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\bin\Debug\NumberToWordCurrencyConverter.pdb
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter.csprojAssemblyReference.cache
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\App.g.cs
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter_MarkupCompile.cache
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter_MarkupCompile.lref
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\MainWindow.baml
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter.g.resources
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter.Properties.Resources.resources
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter.csproj.GenerateResource.cache
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter.exe
+C:\Users\mcs\Desktop\JOB\NumberToWordCurrencyConverter\obj\Debug\NumberToWordCurrencyConverter.pdb

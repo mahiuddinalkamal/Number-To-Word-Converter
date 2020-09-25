@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWordConverterService", "NumberToWordConverterService.csproj", "{F6138B6F-FF9A-466F-A344-AA3DF1264AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWordConverterServiceHost", "..\NumberToWordConverterServiceHost\NumberToWordConverterServiceHost.csproj", "{1FCA5F72-D322-4566-B3DE-5F3DB56960EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6138B6F-FF9A-466F-A344-AA3DF1264AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6138B6F-FF9A-466F-A344-AA3DF1264AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6138B6F-FF9A-466F-A344-AA3DF1264AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6138B6F-FF9A-466F-A344-AA3DF1264AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCA5F72-D322-4566-B3DE-5F3DB56960EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCA5F72-D322-4566-B3DE-5F3DB56960EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCA5F72-D322-4566-B3DE-5F3DB56960EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCA5F72-D322-4566-B3DE-5F3DB56960EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F7EB1E-9BFB-47B6-B279-18483672435D}
+	EndGlobalSection
+EndGlobal
