@@ -1,5 +1,5 @@
 # NumberToWordConverter
-This is a simple tool written in WPF consuming a WCF service to convert any number (European standard) to words. The service can be freely used with other applications too.
+A tool written in WPF consuming a WCF service to convert any number (European standard) to words. The service can be freely used with other applications too.
 
 1. The client will be found in NumberToWordCurrencyConverter folder.
 2. The service can be hosted in many ways, here I chose a simple console application to host the service. 
